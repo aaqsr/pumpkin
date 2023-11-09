@@ -10,7 +10,7 @@ Built with vim colors.
 Use `vim-plug` or any other plugin manager of your choice:
 
 ```vim
-Plug 'pablopunk/sick.vim'
+Plug 'aaqsr/pumpkin'
 ```
 And then set the colorscheme.
 
